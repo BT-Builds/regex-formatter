@@ -1,0 +1,6 @@
+**[Regex Formatter API] — Live**
+**URL:** https://regex-formatter.vercel.app
+**GitHub:** https://github.com/BT-Builds/regex-formatter
+**Endpoints:** /format, /minify, /explain, /test, /health
+**Try it:** curl -X POST https://regex-formatter.vercel.app/explain -H "Content-Type: application/json" -H "X-API-Key: demo-key-change-me" -d '{"pattern": "\\d{3}-\\d{3}-\\d{4}"}'
+**Monetize:** RapidAPI ($19-49/mo) or direct Stripe integration
